@@ -36,4 +36,11 @@ public class Minion {
 	public String getColor() {
 		return color;
 	}
+	
+	public void setMaster(String master) {
+		this.master = master;
+	}
+	public String getMaster() {
+		return master;
+	}
 }
