@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="4. Static"/>
 	<classpathentry kind="src" path="6. UML"/>
 	<classpathentry kind="src" path="5. Inheritance"/>
+	<classpathentry kind="src" path="7.polymorphism"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
